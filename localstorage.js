@@ -26,6 +26,8 @@ utils.storage = {
    */
   _enabled: false,
   
+  _storage = {};
+
   /**
    * Fire up the beast!! :P
    */
